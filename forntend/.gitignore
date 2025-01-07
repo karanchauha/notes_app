@@ -1,0 +1,21 @@
+# Node Modules
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Cache and Output
+.cache/
+.out/
+.next/
+
+# Environment Variables
+.env
+
+# TailwindCSS
+tailwind.css
+
+# Logs
+npm-debug.log*
+yarn-error.log
